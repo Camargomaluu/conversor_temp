@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family= Roboto +Flex:wght@200;300 & display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    max-width: 450px;
+    background-color: #03071e;
+    color: #ffffff;
+    border-radius: 8px;
+    font-family: 'Roboto Flex', sans-serif;
+    padding: 20px;
+}
+
+h1{
+    letter-spacing: 1.4px;
+}
+
+.button{
+    margin-top: 15px;
+    text-align: center;
+    background: #000000;
+}
+
+#span{
+    display: flex;  
+}
+
+#box{
+    line-height: 1.5;
+}
+
